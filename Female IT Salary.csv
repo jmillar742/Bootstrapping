@@ -1,0 +1,115 @@
+﻿Age,Gender,City,Position ,Total years of experience,Years of experience in Germany,Seniority level,Annual brutto salary (without bonus and stocks) in EUR,Annual bonus + stocks in EUR,Annual Total Salary,One Year ago Brutto Salary,1 Year Ago Bonuses,1 Year Ago Total Salary,Number of vacation days,Company type
+22,Female,Berlin,Business Development Manager Operations ,4,1,Middle,74000,11000,85000,72000,5000,77000,27,Product
+23,Female,Berlin,Data analyst ,1,1,Junior,60000,10000,70000,60000,7500,67500,24,Startup
+24,Female,Prague,Software Engineer,3,0,Middle,72000,12000,84000,63000,0,63000,27,Product
+25,Female,Frankfurt,Software Engineer,3,2,Middle,77000,2000,79000,66000,2000,68000,28,Product
+25,Female,Amsterdam,Data Scientist,1.5,0,Middle,75000,10000,85000,63000,0,63000,27,Product
+25,Female,Berlin,support engineer,2,2,Middle,73500,0,73500,70000,0,70000,27,Product
+26,Female,Berlin,Tech recruiting,2.5,2.5,Middle,75000,7500,82500,72000,7200,79200,27,Product
+26,Female,Berlin,Software Engineer,6,4,Senior,65000,3000,68000,47000,47000,94000,30,Product
+26,Female,Berlin,Data Scientist,4,1,Middle,75000,75000,150000,70000,70000,140000,27,Product
+26,Female,Dusseldorf,BI Consultant SAP/ Data Engineer,5,5,Middle,75000,8000,83000,73000,3000,76000,28,Startup
+26,Female,Prague,Software Engineer,4,1,Middle,75000,5000,80000,75000,5000,80000,27,Startup
+26,Female,Munich,Data Scientist,6,2,Middle,80000,0,80000,72000,0,72000,27,Startup
+27,Female,Munich,Mobile Developer,1,1,Junior,55000,4000,59000,55000,1800,56800,24,Product
+27,Female,Berlin,Backend Developer,1,1,Junior,80000,5000,85000,72000,2500,74500,24,Product
+27,Female,Berlin,Backend Developer,5,2.5,Middle,67000,6000,73000,63500,5000,68500,28,Product
+27,Female,Berlin,Data Scientist,3,3,Middle,74000,15000,89000,54000,54000,108000,27,Product
+27,Female,Munich,Frontend Developer,2,2,Middle,62000,8000,70000,55000,0,55000,28,Product
+27,Female,Munich,Backend Developer,6,4,Senior,62000,0,62000,36000,0,36000,30,Product
+27,Female,Berlin,Data Analyst ,1,1,Middle,48000,7200,55200,36000,0,36000,28,Startup
+27,Female,Lisbon,Backend Developer,3,0,Middle,71000,0,71000,65000,0,65000,27,Startup
+27,Female,Berlin,Data Scientist,5,2,Senior,62000,0,62000,55000,0,55000,30,Startup
+28,Female,Berlin,Designer (UI/UX),7,7,Middle,60000,4000,64000,51000,4000,55000,28,Consulting 
+28,Female,Berlin,Frontend Developer,5,2,Senior,80000,0,80000,70000,3500,73500,30,Product
+28,Female,Berlin,Data Analyst,3,2.5,Middle,72000,0,72000,62000,6200,68200,28,Product
+28,Female,Berlin,Software Engineer,3,3,Middle,80000,12000,92000,76000,11000,87000,28,Product
+28,Female,Berlin,Data Scientist,4,4,Middle,48000,5000,53000,43200,48000,91200,28,Product
+28,Female,Berlin,Data Scientist,4,2,Middle,64000,2000,66000,60000,0,60000,28,Product
+28,Female,Munich,QA Engineer,6,2,Middle,90000,0,90000,80000,0,80000,27,Product
+28,Female,Berlin,Frontend Developer,3,3,Middle,72000,0,72000,70000,0,70000,28,Product
+28,Female,Berlin,Designer (UI/UX),7,7,Middle,54500,0,54500,52000,0,52000,28,Product
+28,Female,Berlin,Backend Developer,3,2,Middle,60000,0,60000,52000,0,52000,28,Product
+28,Female,Munich,QA Engineer,8,4,Senior,89570,20240,109810,82240,18000,100240,30,Startup
+28,Female,Amsterdam,Program Manager,10,3,Senior,90000,0,90000,87000,0,87000,34,Startup
+29,Female,Berlin,Software Engineer,5,2,Middle,85000,5000,90000,85000,5000,90000,27,Consulting 
+29,Female,Berlin,Software Developer in Test,9,4,Lead,60000,1000,61000,45000,45000,90000,25,Consulting 
+29,Female,Munich,Software Engineer,5,4,Middle,93000,1000,94000,88000,10000,98000,29,Product
+29,Female,Berlin,QA Engineer,8,5,Senior,56000,0,56000,55000,0,55000,30,Product
+30,Female,Berlin,Frontend Developer,3,3,Lead,55000,0,55000,55000,0,55000,26,Consulting 
+30,Female,Berlin,Software Engineer,8,2,Senior,72000,10000,82000,62000,7000,69000,36,Old industry
+30,Female,Berlin,Data Scientist,6,5,Senior,58000,3500,61500,55000,3000,58000,30,Personal Ltd
+30,Female,Berlin,Software Engineer,4,4,Middle,66300,1000,67300,65000,1000,66000,28,Product
+30,Female,Munich,Software Engineer,8,2,Senior,71750,6000,77750,66000,5500,71500,30,Product
+30,Female,Munich,Mobile Developer,10,3.5,Senior,79300,11900,91200,73000,6000,79000,30,Product
+30,Female,Frankfurt,QA Engineer,6,4,Senior,100000,30000,130000,100000,30000,130000,30,Product
+30,Female,Berlin,Software Engineer,7,3,Senior,93000,10000,103000,80000,0,80000,30,Product
+30,Female,Berlin,ML Engineer,5,1.5,Middle,40000,0,40000,37000,0,37000,28,Product
+30,Female,Berlin,QA Engineer,5,3,Middle,85000,0,85000,82000,0,82000,28,Product
+30,Female,Munich,Frontend Developer,9,3,Senior,102000,0,102000,78000,0,78000,30,Product
+30,Female,Stockholm,QA Engineer,7,1,Senior,55000,0,55000,55000,0,55000,30,Product
+30,Female,Cologne,Data Scientist,8,7,Senior,70000,1500,71500,68000,1500,69500,30,Startup
+31,Female,Berlin,Graphic Designer,11,2,Middle,45500,45500,91000,40000,0,40000,28,Consulting 
+31,Female,Munich,QA Engineer,7,3,Senior,84000,0,84000,82000,0,82000,30,Consulting 
+31,Female,Berlin,Software Engineer,1,1,Junior,65000,5000,70000,65000,0,65000,24,Product
+31,Female,Ulm,QA Engineer,8,3,Middle,73000,30000,103000,67000,0,67000,28,Product
+31,Female,Berlin,Analytics engineer,6,2,Middle,66000,0,66000,60000,60000,120000,28,Product
+31,Female,Stuttgart,Data Scientist,4,2,Middle,95000,125000,220000,90000,90000,180000,28,Product
+31,Female,Munich,Software Engineer,2,2,Middle,52000,0,52000,52000,0,52000,28,Product
+31,Female,Berlin,QA Engineer,11,1.5,Middle,52000,0,52000,52000,0,52000,28,Product
+31,Female,Munich,agile master ,14,7,Middle,67000,0,67000,66000,0,66000,29,Startup
+32,Female,Stuttgart,Stuttgart,2,2,Junior,95000,10000,105000,85000,10000,95000,24,Consulting 
+32,Female,Berlin,Product Manager,10,4.5,Senior,75000,0,75000,72000,15000,87000,30,Consulting 
+32,Female,Munich,Data Scientist,5,5,Senior,90000,10000,100000,75000,0,75000,30,Consulting 
+32,Female,Berlin,Computational linguist,5,5,Middle,72000,0,72000,63000,1000,64000,28,Product
+32,Female,Hamburg,Data Engineer,2,2,Junior,100000,0,100000,92000,7000,99000,24,Product
+32,Female,Berlin,QA Engineer,10,4,Lead,54000,1000,55000,31000,31000,62000,27,Product
+32,Female,Cologne,Data Scientist,4,4,Senior,62000,67000,129000,52000,58000,110000,30,Product
+32,Female,Munich,It Consulting ,2,2,Junior,75000,0,75000,60000,60000,120000,24,Product
+32,Female,Berlin,Software Engineer,6,4,Lead,75000,0,75000,75000,0,75000,25,Product
+32,Female,Berlin,Software Engineer,2,2,Middle,67000,0,67000,62000,0,62000,28,Product
+32,Female,Berlin,QA Engineer,10,1.5,Middle,62000,5000,67000,60000,5000,65000,28,Startup
+32,Female,Berlin,DevOps,9,5,Middle,62000,0,62000,62000,0,62000,29,Startup
+32,Female,Berlin,Mobile Developer,7,3,Senior,65000,0,65000,55000,0,55000,30,Startup
+33,Female,Berlin,Software Engineer,6,3,Middle,72000,8000,80000,72000,8000,80000,28,Bank
+33,Female,Munich,Testmanager,10,2,Junior,49850,500,50350,36000,0,36000,25,Consulting 
+33,Female,Berlin,QA Engineer,8,1.5,Senior,50000,0,50000,50000,0,50000,30,Product
+33,Female,Berlin,Data Scientist,8,4,Senior,57600,0,57600,51200,0,51200,30,Product
+33,Female,Berlin,QA Engineer,9,2,Middle,72000,12,72012,65000,0,65000,27,Product
+33,Female,Brunswick,Software Engineer,6,4,Middle,45000,0,45000,37000,0,37000,28,Product
+33,Female,Berlin,Software Engineer,12,5,Senior,63000,0,63000,55000,0,55000,30,Product
+33,Female,Munich,QA Engineer,6.5,3,Senior,90000,0,90000,80000,0,80000,30,Startup
+33,Female,Munich,Software Engineer,10,3,Senior,82000,0,82000,78000,5000,83000,30,Startup
+34,Female,Berlin,QA Engineer,6,2,Senior,76000,3000,79000,65000,10000,75000,30,Consulting 
+34,Female,Berlin,Designer (UI/UX),10,6,Senior,68000,2000,70000,65000,5000,70000,30,Product
+34,Female,Berlin,Software Engineer,9,3,Senior,100000,10000,110000,85000,10000,95000,30,Product
+34,Female,Hildesheim ,QA Engineer,11,2,Senior,70000,800,70800,65000,67000,132000,30,Product
+34,Female,Berlin,,13,3,Principal,110000,100000,210000,110000,100000,210000,29,Product
+34,Female,Berlin,QA Engineer,11,11,Senior,74000,0,74000,72000,0,72000,30,Product
+35,Female,Berlin,Product Manager,5,2,Senior,66000,0,66000,66000,0,66000,30,Bank 
+35,Female,Berlin,Product Manager,13,6,Senior,65000,0,65000,65000,0,65000,30,Product
+35,Female,Berlin,Frontend Developer,12,5,Middle,73000,1000,74000,65000,1000,66000,28,Product
+35,Female,Frankfurt,Software Engineer,1,1,Junior,120000,50000,170000,95000,40000,135000,24,Product
+35,Female,Berlin,Frontend Developer,2,2,Junior,85000,90000,175000,82000,87000,169000,24,Product
+35,Female,Stuttgart ,QA Manager ,9,4,Middle,75000,0,75000,75000,0,75000,28,Product
+35,Female,Munich,Backend Developer,4,4,Middle,75000,95000,170000,74000,94000,168000,28,Startup
+35,Female,Berlin,Reporting Engineer,3,2,Middle,80000,0,80000,80000,0,80000,29,Startup
+36,Female,Berlin,QA Engineer,14,7,Lead,57000,1500,58500,54000,100,54100,26,Bank
+36,Female,Berlin,Recruiter,11,4,Senior,60000,0,60000,60000,0,60000,25,Product
+36,Female,Berlin,DevOps,1,3,Middle,38350,40950,79300,33800,36400,70200,27,Product
+36,Female,Erlangen,Project Manager,14,2,Middle,63000,6300,69300,60000,6000,66000,28,Startup
+36,Female,Berlin,Data Scientist,5,5,Senior,90000,10000,100000,75000,0,75000,30,Startup
+37,Female,Berlin,Data Scientist,2,2,Middle,80000,4000,84000,80000,2000,82000,28,Consulting 
+37,Female,Hamburg,QA Manager,7,7,Middle,72000,0,72000,65000,0,65000,29,Product
+38,Female,Berlin,Backend Developer,12,6,Senior,75000,0,75000,64000,6000,70000,30,corporate incubator
+38,Female,Munich,QA Engineer,6,2,Middle,83000,17000,100000,80000,10000,90000,27,Product
+38,Female,Regensburg,ML Engineer,3,3,Middle,115000,70000,185000,115000,60000,175000,28,Product
+39,Female,Stuttgart ,Project manager ,13,13,Senior,67000,5000,72000,65000,4000,69000,31,Consulting 
+39,Female,Berlin,Data Scientist,2.5,2,Junior,40000,0,40000,40000,0,40000,25,Product
+39,Female,Berlin,Software Engineer,10,10,Senior,93000,10000,103000,93000,11000,104000,30,Product
+40,Female,Berlin,Fullstack Developer,8,8,Senior,65000,0,65000,65000,0,65000,30,Product
+40,Female,Berlin,Software Engineer,1.5,1.5,Junior,80000,0,80000,72000,0,72000,24,Product
+40,Female,Munich,Software Engineer,20,7,Middle,85000,3000,88000,75000,0,75000,29,Startup
+41,Female,Munich,Data Engineer,12,12,Senior,90000,7000,97000,97000,87000,184000,31,Consulting 
+42,Female,Berlin,QA Engineer,5,5,Middle,85000,85000,170000,80000,80000,160000,27,Product
+45,Female,Berlin,Product Manager,15,7,Lead,65000,0,65000,65000,0,65000,26,Product

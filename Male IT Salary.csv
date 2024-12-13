@@ -1,0 +1,671 @@
+﻿Age,Gender,City,Position ,Total years of experience,Years of experience in Germany,Seniority level,Annual brutto salary (without bonus and stocks) in EUR,Annual bonus + stocks in EUR,Annual Total Salary,One Year ago Brutto Salary,1 Year Ago Bonuses,1 Year Ago Total Salary,Number of vacation days,Company type
+22,Male,Frankfurt,Software Engineer,2,2,Junior,95000,0,95000,80000,0,80000,24,Startup
+23,Male,Berlin,Software Engineer,4,1,Middle,75000,10000,85000,75000,0,75000,28,Product
+23,Male,Dublin,Data Analyst,3,0,Senior,90000,40000,130000,70000,40000,110000,30,Product
+23,Male,Berlin,Software Engineer,3,3,Middle,85000,0,85000,85000,0,85000,28,Product
+24,Male,Munich,Software Engineer,5,2,Middle,68000,2000,70000,60000,500,60500,28,Consulting 
+24,Male,Berlin,Data Scientist,4,2,Senior,57000,1000,58000,54000,1000,55000,30,Consulting 
+24,Male,Munich,Software Engineer,3,2,Middle,66000,0,66000,60000,0,60000,28,Consulting 
+24,Male,Moscow,Product Manager,3,0,Senior,63000,4000,67000,63000,4000,67000,30,Ecommerce
+24,Male,Berlin,DevOps,6,3,Senior,53000,0,53000,43000,0,43000,30,Product
+24,Male,Berlin,Software Engineer,2,2,Junior,65000,0,65000,62000,3000,65000,24,Product
+24,Male,Sofia,ML Engineer,5,0,Senior,40000,0,40000,34000,37500,71500,30,Product
+24,Male,Berlin,Software Engineer,2,2,Junior,85000,0,85000,78000,0,78000,24,Product
+24,Male,Frankfurt,Frontend Developer,3,0,Middle,79000,0,79000,80000,0,80000,27,Product
+24,Male,Berlin,Frontend Developer,5,1,Senior,75000,0,75000,65000,0,65000,30,Product
+24,Male,Berlin,Frontend Developer,5,2,Senior,75000,0,75000,72500,0,72500,30,Product
+24,Male,Tallinn,Software Engineer,3,0,Junior,75000,0,75000,75000,0,75000,24,Startup
+24,Male,Berlin,Backend Developer,4,3,Middle,80000,12000,92000,65000,0,65000,28,Telecommunications
+25,Male,Berlin,Mobile Developer,2,2,Middle,55000,0,55000,55000,0,55000,28,Product
+25,Male,Hamburg,ML Engineer,2,2,Middle,59000,0,59000,54000,0,54000,28,Product
+25,Male,Berlin,Backend Developer,6,2,Senior,75000,1000,76000,72500,0,72500,30,Product
+25,Male,Stuttgart,Backend Developer,4,2,Middle,70000,5500,75500,70000,5500,75500,28,Product
+25,Male,Munich,Software Engineer,3,1,Middle,85000,25,85025,75000,0,75000,28,Product
+25,Male,Berlin,Backend Developer,4,1,Middle,100000,120000,220000,80000,0,80000,27,Product
+25,Male,Hamburg,Data Scientist,2,2,Middle,56000,0,56000,54000,0,54000,28,Product
+25,Male,Hamburg,Backend Developer,5,1,Middle,55000,0,55000,55000,0,55000,28,Product
+25,Male,Berlin,Software Engineer,6,2,Middle,60000,0,60000,55000,0,55000,28,Startup
+25,Male,Berlin,Data Engineer,3,3,Senior,85000,4000,89000,85000,4000,89000,30,Startup
+25,Male,Berlin,Software Engineer,6,3,Senior,99000,99000,198000,89000,89000,178000,30,Startup
+25,Male,Berlin,Solutions Architect,6,2,Middle,62000,0,62000,60000,0,60000,28,Startup
+26,Male,Lisbon,Software Engineer,4,0,Middle,71000,0,71000,65000,0,65000,27,Automotive
+26,Male,Berlin,Backend Developer,5,4,Middle,115000,17000,132000,100000,8500,108500,28,Consulting 
+26,Male,Berlin,Software Engineer,5,2,Middle,78000,10000,88000,70000,0,70000,28,Consulting 
+26,Male,Berlin,Software Engineer,5,1,Middle,35000,0,35000,35000,0,35000,28,eCommerce
+26,Male,Berlin,Software Engineer,8,3,Lead,70000,0,70000,60000,0,60000,25,Product
+26,Male,"Riga, Latvia",Software Engineer,4,0,Middle,62000,4000,66000,60000,2000,62000,27,Product
+26,Male,Berlin,DevOps,5,2,Middle,74000,3000,77000,68000,3000,71000,27,Product
+26,Male,Munich,Software Engineer,5,3,Senior,62400,5000,67400,60000,5000,65000,30,Product
+26,Male,Berlin,Architect ,9,4,Head,43000,43000,86000,42000,42000,84000,14,Product
+26,Male,Berlin,Backend Developer,2,2,Junior,73000,73000,146000,50000,50000,100000,24,Product
+26,Male,SaarbrÃ¼cken,Frontend Developer,7,7,Middle,60000,65000,125000,48000,53000,101000,28,Product
+26,Male,Berlin,DevOps,2,2,Middle,63500,63500,127000,60000,60000,120000,28,Product
+26,Male,Munich,Software Engineer,6,2,Senior,82000,82000,164000,75000,80000,155000,30,Product
+26,Male,Berlin,Data Scientist,5,3,Middle,80000,0,80000,79000,0,79000,27,Product
+26,Male,Berlin,Software Engineer,5,2,Middle,77000,0,77000,60000,0,60000,28,Product
+26,Male,Munich,Data Scientist,3,2,Middle,90000,0,90000,75000,0,75000,28,Product
+26,Male,Berlin,Backend Developer,6,3,Senior,77000,0,77000,69300,0,69300,30,Startup
+26,Male,Berlin,Mobile Developer,6,2,Senior,85000,2000,87000,68000,0,68000,30,Startup
+26,Male,Berlin,Data Engineer,2,2,Middle,42000,3000,45000,42000,3000,45000,28,Startup
+26,Male,Stockholm,ML Engineer,2.5,0,Middle,80000,0,80000,72000,3500,75500,28,Startup
+26,Male,London,Frontend Developer,8,0,Senior,56000,17000,73000,53000,17000,70000,30,Startup
+26,Male,Berlin,Backend Developer,7,4,Senior,65000,70000,135000,55000,55000,110000,30,Startup
+26,Male,Munich,Backend Developer,7,1.5,Senior,72000,72000,144000,60000,60000,120000,30,Startup
+26,Male,Munich,ML Engineer,1.5,1.5,Junior,78000,0,78000,70000,0,70000,24,Startup
+26,Male,Berlin,Product Analyst,4,3,Middle,65000,0,65000,60000,0,60000,27,Startup
+26,Male,Berlin,Data Scientist,4,2,Middle,69000,0,69000,65000,0,65000,28,Startup
+26,Male,Frankfurt,Consultant,4,4,Middle,45000,0,45000,37000,0,37000,28,Startup
+26,Male,Berlin,Data Engineer,4,3,Middle,74000,11000,85000,72000,10000,82000,28,Transport & Logistics
+27,Male,Prague,Software Engineer,3,0,Middle,65000,5000,70000,63000,10000,73000,27,Bank
+27,Male,Berlin,Tech Lead / Full-Stack,5,3.5,Lead,63000,3000,66000,50000,0,50000,27,Consulting 
+27,Male,Berlin,Data Engineer,6,3,Middle,65000,1000,66000,56000,1000,57000,27,Consulting 
+27,Male,Berlin,ML Engineer,6,1,Middle,60000,0,60000,50000,0,50000,28,Consulting 
+27,Male,Berlin,Software Engineer,6,3,Middle,69200,0,69200,67100,0,67100,28,Product
+27,Male,Munich,QA Engineer,6,4,Middle,67473,0,67473,63000,0,63000,28,Product
+27,Male,Frankfurt,IT Manager,5,3,Middle,50400,0,50400,50400,0,50400,29,Product
+27,Male,Krakow,QA Engineer,5,1,Senior,66000,0,66000,64000,0,64000,30,Product
+27,Male,Berlin,Software Engineer,2,1,Lead,79000,10000,89000,77000,0,77000,27,Product
+27,Male,Cologne,Software Engineer,1,1,Junior,150000,80000,230000,81000,4000,85000,24,Product
+27,Male,Berlin,Backend Developer,8,3,Senior,50000,0,50000,40000,5000,45000,30,Product
+27,Male,Munich,Software Engineer,8,4,Senior,55000,55000,110000,53000,53000,106000,30,Product
+27,Male,Munich,Software Engineer,5,1,Senior,60000,65000,125000,57000,59000,116000,30,Product
+27,Male,Berlin,Software Engineer,5,1,Senior,61000,63000,124000,58000,60000,118000,30,Product
+27,Male,Frankfurt,Software Engineer,5,3,Middle,73700,80400,154100,67000,67000,134000,28,Product
+27,Male,Berlin,DevOps,4,4,Middle,100000,100000,200000,80000,80000,160000,28,Product
+27,Male,Amsterdam,ML Engineer,4,1,Middle,76000,10000,86000,69000,0,69000,27,Product
+27,Male,Rome,Data Scientist,2,0,Junior,55000,0,55000,47000,0,47000,24,Product
+27,Male,Munich,Software Engineer,2,5,Junior,70000,0,70000,64000,0,64000,24,Product
+27,Male,Munich,QA Engineer,5,1,Senior,57750,0,57750,55000,0,55000,30,Product
+27,Male,Berlin,DevOps,7,3.5,Senior,62000,0,62000,58000,600,58600,30,Startup
+27,Male,Tuttlingen,Software Engineer,4,4,Junior,62000,3000,65000,62000,3000,65000,25,Startup
+27,Male,Berlin,Data Engineer,0,0,Junior,75000,75000,150000,65000,65000,130000,24,Startup
+27,Male,Munich,Software Engineer,5,1,Senior,110000,0,110000,90000,0,90000,30,Startup
+28,Male,Berlin,ML Engineer,5,3,Middle,71060,101,71161,67500,101,67601,28,Biergarten 
+28,Male,Munich,Backend Developer,5,4,Senior,65000,5000,70000,65000,5000,70000,30,Consulting 
+28,Male,Karlsruhe,Backend Developer,7,3,Senior,92000,101,92101,85000,7000,92000,30,Consulting 
+28,Male,Frankfurt,Mobile Developer,5,1,Senior,45000,45000,90000,45000,45000,90000,30,Consulting 
+28,Male,Frankfurt,Frontend Developer,7,5,Senior,85000,10000,95000,80000,0,80000,30,Consulting 
+28,Male,Berlin,Software Engineer,6,2,Senior,75000,0,75000,70000,0,70000,30,Consulting 
+28,Male,Berlin,Fullstack Developer,6,6,Senior,50000,500,50500,42000,500,42500,45,Consulting and Product
+28,Male,Munich,Backend Developer,6,5,Senior,80000,0,80000,75000,0,75000,30,Financial 
+28,Male,Kyiv,Mobile Developer,5,0,Senior,20000,6500,26500,17000,3500,20500,30,Pharma
+28,Male,Berlin,Software Engineer,6,2,Middle,75000,0,75000,73000,0,73000,27,Product
+28,Male,Berlin,Data Scientist,4,4,Middle,94000,0,94000,92000,0,92000,28,Product
+28,Male,Wolfsburg,Software Engineer,3,1,Middle,75000,0,75000,73000,0,73000,28,Product
+28,Male,Berlin,Data Engineer,5,1,Middle,82000,0,82000,78000,0,78000,28,Product
+28,Male,Berlin,Frontend Developer,5,5,Middle,88000,0,88000,80000,0,80000,28,Product
+28,Male,Cologne,Backend Developer,4,4,Middle,80000,5000,85000,70000,5000,75000,28,Product
+28,Male,Munich,Network Administrator,9,3,Senior,80000,6000,86000,78000,5000,83000,30,Product
+28,Male,Munich,IT Manager,6,3,Middle,86000,0,86000,80000,5000,85000,28,Product
+28,Male,Munich,Software Engineer,3,3,Junior,48000,10000,58000,41000,6000,47000,25,Product
+28,Male,Munich,Mobile Developer,5,3,Senior,110000,7000,117000,110000,7000,117000,30,Product
+28,Male,Berlin,Backend Developer,8,1,Lead,70000,20000,90000,70000,10000,80000,25,Product
+28,Male,Stuttgart,Backend Developer,5,1.5,Middle,76000,20000,96000,760000,20000,780000,28,Product
+28,Male,Berlin,SRE,6,1.5,Middle,36000,36000,72000,36000,36000,72000,28,Product
+28,Male,Berlin,Data Engineer,7,3,Senior,72000,5000,77000,45000,45000,90000,30,Product
+28,Male,Munich,Frontend Developer,5,5,Middle,77500,78000,155500,54000,54000,108000,28,Product
+28,Male,Munich,Software Engineer,7,3,Middle,62000,70000,132000,54000,60000,114000,28,Product
+28,Male,Zurich,Software Engineer,6,0,Middle,72000,85000,157000,65000,65000,130000,27,Product
+28,Male,Berlin,Technical account manager ,4,2,Key,100000,18000,118000,140000,73000,213000,25,Product
+28,Male,Berlin,Backend Developer,9,2,Senior,55000,5000,60000,42000,0,42000,30,Product
+28,Male,Berlin,ML Engineer,1,1,Junior,50000,0,50000,42000,0,42000,24,Product
+28,Male,Frankfurt,XR Developer,8,1,Lead,40700,0,40700,20000,0,20000,25,Product
+28,Male,Berlin,Data Scientist,6,6,Lead,60000,0,60000,55000,0,55000,25,Product
+28,Male,Cologne,Software Engineer,5,1,Middle,90000,0,90000,75000,0,75000,27,Product
+28,Male,Berlin,QA Engineer,5,1,Middle,85000,0,85000,75000,0,75000,28,Product
+28,Male,Berlin,Data Engineer,6,1.5,Middle,72000,0,72000,56000,0,56000,28,Product
+28,Male,Berlin,Designer (UI/UX),11,2,Senior,70200,0,70200,70200,0,70200,30,Product
+28,Male,Berlin,Frontend Developer,2,2,Junior,58000,0,58000,55000,0,55000,24,Startup
+28,Male,Sevilla,DatabEngineer,4,0,Middle,75000,0,75000,70000,0,70000,27,Startup
+28,Male,Berlin,Software Engineer,3,2,Middle,80000,10000,90000,67000,0,67000,27,Startup
+28,Male,Munich,Software Engineer,5,4,Middle,70000,0,70000,70000,850,70850,27,Startup
+28,Male,Rome,ML Engineer,2,0,Middle,103000,200000,303000,92000,25000,117000,29,Startup
+28,Male,Brussels,Robotics Engineer,3,0,Middle,80000,13500,93500,64000,64000,128000,27,Startup
+28,Male,Berlin,Frontend Developer,7,5,Middle,78000,4000,82000,61000,0,61000,27,Startup
+28,Male,Berlin,Backend Developer,5,1,Senior,80000,4000,84000,80000,0,80000,30,Startup
+28,Male,Berlin,Software Engineer,8,3,Lead,68000,0,68000,68000,0,68000,26,Startup
+29,Male,Berlin,Software Engineer,12,3,Senior,54000,6000,60000,45000,0,45000,30,Consulting 
+29,Male,Munich,Software Engineer,7,3,Senior,58000,5800,63800,58000,101,58101,30,Consulting 
+29,Male,Stuttgart ,Software Engineer,7,5,Middle,74000,6000,80000,74000,6000,80000,28,Consulting 
+29,Male,Berlin,Software Engineer,7,5,Senior,95500,14500,110000,94000,7500,101500,30,Consulting 
+29,Male,Berlin,Backend Developer,8,1.5,Middle,54000,54000,108000,54000,54000,108000,28,Consulting 
+29,Male,Berlin,Mobile Developer,8,4,Senior,60000,60000,120000,60000,60000,120000,30,Consulting 
+29,Male,Munich,Data Scientist,4,4,Middle,80000,0,80000,80000,0,80000,28,Education
+29,Male,Berlin,QA Engineer,9,2,Senior,72000,0,72000,68000,0,68000,30,Non-tech retail
+29,Male,Munich,Software Engineer,4,4,Middle,77000,0,77000,70000,0,70000,28,Product
+29,Male,Berlin,Backend Developer,9,6,Senior,43000,0,43000,43000,0,43000,30,Product
+29,Male,Berlin,Backend Developer,11,2,Senior,80000,0,80000,75000,0,75000,30,Product
+29,Male,Berlin,Backend Developer,9,5,Senior,74000,0,74000,69000,0,69000,30,Product
+29,Male,Berlin,Backend Developer,5,5,Senior,65000,6500,71500,40000,0,40000,30,Product
+29,Male,Barcelona,Data Scientist,0,0,Junior,25000,1000,26000,25000,700,25700,24,Product
+29,Male,Berlin,AI Management,6,6,Head,17500,1250,18750,16000,1100,17100,22,Product
+29,Male,Berlin,Frontend Developer,7,2,Senior,85000,5000,90000,72000,3000,75000,30,Product
+29,Male,Hamburg,Backend Developer,7,3,Middle,84700,1000,85700,83000,3500,86500,29,Product
+29,Male,Milan,Data Scientist,4,0,Middle,60000,6000,66000,60000,6000,66000,27,Product
+29,Male,Berlin,Backend Developer,10,5,Senior,60000,25000,85000,60000,17000,77000,30,Product
+29,Male,Berlin,Software Engineer,6,4,Lead,90000,20000,110000,85000,20000,105000,25,Product
+29,Male,Bonn,Mobile Developer,5,2,Middle,50400,50400,100800,50000,50000,100000,27,Product
+29,Male,Munich,SW Architect,8,3,Senior,90000,100000,190000,85000,50000,135000,30,Product
+29,Male,Konstanz area,Mobile Developer,6,3,Middle,78000,78000,156000,78000,78000,156000,27,Product
+29,Male,Berlin,Software Engineer,9,5,Senior,120000,120000,240000,120000,120000,240000,30,Product
+29,Male,Berlin,Designer (UI/UX),6,2,Middle,60000,0,60000,55000,0,55000,28,Product
+29,Male,Berlin,Backend Developer,8,2,Senior,79000,5000,84000,67000,0,67000,30,Product
+29,Male,Berlin,DevOps,7,3,Senior,85000,5000,90000,100000,0,100000,30,Product
+29,Male,Berlin,Frontend Developer,8,5,Head,57000,0,57000,54000,0,54000,21,Product
+29,Male,Berlin,DevOps,7,1,Lead,85000,0,85000,80000,0,80000,25,Product
+29,Male,Berlin,Frontend Developer,3,3,Middle,70000,0,70000,65000,0,65000,28,Product
+29,Male,Munich,Data Scientist,6,5,Middle,78000,0,78000,100000,0,100000,28,Product
+29,Male,Berlin,Frontend Developer,5,5,Middle,42000,0,42000,42000,0,42000,28,Product
+29,Male,Berlin,Data Engineer,3,3,Middle,69000,0,69000,69000,0,69000,28,Product
+29,Male,Munich,Software Engineer,8,6,Middle,72000,0,72000,72000,0,72000,28,Product
+29,Male,Berlin,Frontend Developer,8,7,Senior,72000,0,72000,60000,0,60000,30,Product
+29,Male,Berlin,Data Scientist,4,4,Senior,90000,0,90000,80000,0,80000,30,Product
+29,Male,Munich,Backend Developer,8,4,Senior,130000,0,130000,125000,0,125000,30,Product
+29,Male,Karlsruhe,DevOps,6,5,Senior,80000,0,80000,80000,0,80000,30,Product
+29,Male,Bonn,Data Scientist,2,2,Middle,81000,0,81000,75000,0,75000,28,Startup
+29,Male,Berlin,Software Engineer,5,3,Senior,100000,0,100000,84000,0,84000,30,Startup
+29,Male,Darmstadt,Data Scientist,5,2,Middle,85000,3000,88000,80000,0,80000,28,Startup
+29,Male,Berlin,Mobile Developer,5,4,Senior,50000,4000,54000,50000,4000,54000,30,Startup
+29,Male,Berlin,Software Engineer,8,2,Senior,72000,8000,80000,72500,8000,80500,30,Startup
+29,Male,Berlin,Product Manager,5,5,Middle,100000,35000,135000,85000,28500,113500,28,Startup
+29,Male,Darmstadt,Data Scientist,5,2,Middle,90000,99000,189000,80000,80000,160000,28,Startup
+30,Male,Berlin,Consultant,3,3,Middle,60000,77000,137000,67500,0,67500,28,Bank
+30,Male,Utrecht,Data Scientist,2,0,Middle,70000,71000,141000,64000,0,64000,27,Consulting 
+30,Male,Berlin,QA Engineer,8,3,Senior,90000,7500,97500,88000,7500,95500,30,Consulting 
+30,Male,Berlin,Data Scientist,4.5,2.5,Middle,54000,10000,64000,52000,10000,62000,27,Consulting 
+30,Male,Munich,Hardware Engineer,5,5,Senior,85000,10000,95000,88000,10000,98000,30,Consulting 
+30,Male,Hamburg,Data Scientist,5,5,Middle,85000,20000,105000,62500,11000,73500,28,Consulting 
+30,Male,Frankfurt,Big Data Engineer,3,3,Middle,80000,80000,160000,75000,75000,150000,28,Consulting 
+30,Male,Berlin,Mobile Developer,3,2,Senior,68000,0,68000,66000,0,66000,30,Consulting 
+30,Male,Munich,Software Engineer,7,5,Senior,66000,6000,72000,58000,6000,64000,30,consumer goods
+30,Male,Munich,Mobile Developer,8,2,Lead,45000,0,45000,45000,0,45000,25,Product
+30,Male,Kiev,Backend Developer,8,0,Middle,68250,0,68250,65000,0,65000,27,Product
+30,Male,Berlin,Software Engineer,7,1,Senior,14712,0,14712,14712,0,14712,30,Product
+30,Male,Berlin,DevOps,7,1,Senior,55200,0,55200,50000,0,50000,30,Product
+30,Male,Berlin,Backend Developer,6,2,Senior,65000,0,65000,65000,0,65000,30,Product
+30,Male,Berlin,Software Engineer,10,2,Middle,77000,500,77500,71000,0,71000,28,Product
+30,Male,Berlin,Backend Developer,9,5,Senior,71000,5000,76000,66000,0,66000,30,Product
+30,Male,Berlin,Software Engineer,10,4,Senior,60000,6000,66000,52000,0,52000,30,Product
+30,Male,Hannover,Software Engineer,5,3,Middle,80000,10000,90000,70000,0,70000,28,Product
+30,Male,Rosenheim,Software Engineer,9,5,Middle,60000,1000,61000,60000,1000,61000,28,Product
+30,Male,Berlin,Software Engineer,7,1,Senior,65000,5000,70000,60000,2000,62000,30,Product
+30,Male,Munich,DevOps,8,2,Middle,140000,6000,146000,132000,2000,134000,28,Product
+30,Male,Berlin,Backend Developer,8,2,Middle,64000,6000,70000,63000,6000,69000,28,Product
+30,Male,Frankfurt,Data Scientist,5,4,Middle,85000,40000,125000,78000,7000,85000,28,Product
+30,Male,Berlin,Software Engineer,10,7,Lead,70000,10000,80000,70000,10000,80000,26,Product
+30,Male,Heidelberg,Software Engineer,9,4,Senior,95000,15000,110000,75000,10000,85000,30,Product
+30,Male,Stockholm,Backend Developer,7,2.5,Senior,58800,20700,79500,56400,17000,73400,35,Product
+30,Male,Cologne,technical business analyst,5,5,Middle,122000,45000,167000,118000,46000,164000,28,Product
+30,Male,Berlin,Software Engineer,9,1,Middle,76000,10000,86000,63000,63000,126000,27,Product
+30,Male,Berlin,Frontend Developer,11,5,Senior,66000,6000,72000,61200,67200,128400,30,Product
+30,Male,Heidelberg,Software Engineer,9,4,Senior,92000,14000,106000,75000,78000,153000,30,Product
+30,Male,Berlin,Data Engineer,5,4,Lead,172000,100000,272000,169000,120000,289000,25,Product
+30,Male,Munich,Frontend Developer,9,3,Middle,70000,8000,78000,63000,0,63000,28,Product
+30,Male,Berlin,Software Engineer,9,9,Lead,70000,0,70000,60000,0,60000,25,Product
+30,Male,Munich,DevOps,10,3,Lead,42000,0,42000,42000,0,42000,25,Product
+30,Male,Berlin,Backend Developer,10,4,Lead,62000,0,62000,62000,0,62000,26,Product
+30,Male,Berlin,DevOps,9,5,Lead,68000,0,68000,68000,0,68000,26,Product
+30,Male,Berlin,Backend Developer,4,2,Middle,42000,0,42000,36000,0,36000,27,Product
+30,Male,Munich,Data Scientist,2,2,Middle,74000,0,74000,66000,0,66000,28,Product
+30,Male,Berlin,Backend Developer,7,2,Senior,58000,0,58000,55000,0,55000,30,Product
+30,Male,Berlin,Frontend Developer,6,1,Senior,60000,0,60000,70000,0,70000,30,Product
+30,Male,Berlin,Data Scientist,6,3,Senior,45000,0,45000,39000,0,39000,30,Product
+30,Male,Berlin,Software Engineer,10,2,Senior,80000,0,80000,72000,0,72000,30,Product
+30,Male,Berlin,Software Engineer,8,3,Senior,95000,0,95000,90000,0,90000,30,Product
+30,Male,Berlin,Software Engineer,11,2,Senior,70000,0,70000,65000,0,65000,30,Product
+30,Male,Berlin,Software Engineer,6,3,Senior,85000,0,85000,80000,0,80000,30,SaaS
+30,Male,Moscow,Software Engineer,5,0,Middle,80000,0,80000,68500,0,68500,28,Startup
+30,Male,Berlin,Backend Developer,8,2.5,Senior,83000,0,83000,75000,0,75000,30,Startup
+30,Male,Barcelona,Data Scientist,5,0,Senior,68000,3000,71000,68000,0,68000,30,Startup
+30,Male,Munich,Software Engineer,10,4,Senior,46000,2000,48000,45000,1800,46800,30,Startup
+30,Male,Berlin,Software Engineer,8,2,Senior,159000,35000,194000,98000,23000,121000,45,Startup
+30,Male,Ansbach,Software Engineer,4,3,Junior,75000,86000,161000,60000,65000,125000,24,Startup
+30,Male,Berlin,Head of BI,7,7,Head,65000,0,65000,65000,65000,130000,22,Startup
+30,Male,Berlin,Software Engineer,11,1,Senior,90000,10000,100000,78000,85000,163000,30,Startup
+30,Male,Berlin,ML Engineer,6,2,Middle,63000,10300,73300,56500,0,56500,28,Startup
+30,Male,Hamburg,Data Scientist,5,4,Head,45000,0,45000,30000,0,30000,20,Startup
+30,Male,Munich,Software Engineer,8,1,Senior,62000,0,62000,50000,0,50000,30,Startup
+30,Male,Berlin,Frontend Developer,4,2,Senior,52500,0,52500,52500,0,52500,30,Startup
+30,Male,Berlin,DevOps,11,2,Senior,54500,0,54500,54500,0,54500,30,Startup
+31,Male,Berlin,Engineering Manager,11,6,Lead,74000,21000,95000,70000,0,70000,25,Consulting 
+31,Male,Berlin,Data Engineer,4,2,Middle,75000,3000,78000,65000,3000,68000,28,Consulting 
+31,Male,Munich,ML Engineer,4,4,Senior,60000,60000,120000,37500,37500,75000,30,Consulting 
+31,Male,Berlin,Software Engineer,4,4,Senior,84000,84000,168000,84000,80000,164000,30,Consulting 
+31,Male,Munich,Backend Developer,10,7,Senior,65000,0,65000,60000,0,60000,30,Consulting 
+31,Male,Berlin,Backend Developer,9,9,Senior,78000,0,78000,65000,0,65000,30,Consulting 
+31,Male,Munich,Software Engineer,10,2,Senior,72000,0,72000,72000,0,72000,30,Consulting 
+31,Male,Berlin,Software Engineer,7,5,Lead,80000,40000,120000,80000,35000,115000,25,FAANG
+31,Male,Berlin,ML Engineer,4,4,Junior,90000,0,90000,90000,0,90000,25,Product
+31,Male,Berlin,Software Engineer,4,2,Lead,65000,0,65000,60000,0,60000,25,Product
+31,Male,Berlin,Product Manager,5,3,Lead,90000,0,90000,75000,0,75000,25,Product
+31,Male,Munich,Frontend Developer,12,1.5,Lead,60000,0,60000,60000,0,60000,26,Product
+31,Male,Munich,Software Engineer,5,2,Middle,78000,0,78000,78000,0,78000,28,Product
+31,Male,Berlin,ML Engineer,7,2,Middle,70000,0,70000,60000,0,60000,28,Product
+31,Male,Berlin,Mobile Developer,10,3,Senior,65000,0,65000,52000,0,52000,30,Product
+31,Male,Paris,Mobile Developer,8,0,Senior,55000,0,55000,52000,0,52000,30,Product
+31,Male,Nuremberg,QA Engineer,9,5,Middle,60000,2000,62000,36000,0,36000,28,Product
+31,Male,Berlin,Data Scientist,10,5,Lead,44000,3000,47000,44000,0,44000,26,Product
+31,Male,Munich,Software Engineer,3,3,Middle,80000,10000,90000,85000,0,85000,28,Product
+31,Male,Berlin,Data Scientist,5,3,Middle,58000,3000,61000,26000,1500,27500,28,Product
+31,Male,Berlin,Software Engineer,12,2,Senior,70000,5000,75000,70000,5000,75000,30,Product
+31,Male,Berlin,Frontend Developer,10,1.5,Senior,65000,13000,78000,65000,13000,78000,30,Product
+31,Male,Berlin,Software Engineer,7,2,Senior,73000,16000,89000,73000,16000,89000,30,Product
+31,Male,Minsk,Frontend Developer,6,0,Senior,55000,60000,115000,55000,55000,110000,30,Product
+31,Male,Berlin,Backend Developer,9,5,Senior,65000,73000,138000,62000,68000,130000,30,Product
+31,Male,Berlin,Data Analyst,7,6,Senior,68000,12000,80000,65000,77000,142000,30,Product
+31,Male,Dusseldorf,Software Engineer,7,3,Senior,96000,4000,100000,80000,0,80000,30,Product
+31,Male,Moscow,Data Scientist,2.5,0,Lead,75000,0,75000,70000,0,70000,26,Product
+31,Male,Munich,Professor,10,2,Lead,60000,0,60000,55000,0,55000,27,Product
+31,Male,Berlin,Software Engineer,4,2,Middle,75000,0,75000,75000,0,75000,28,Product
+31,Male,Wolfsburg,Backend Developer,5,1,Senior,86000,0,86000,82600,0,82600,30,Product
+31,Male,Berlin,Backend Developer,9,1,Senior,70000,0,70000,65000,0,65000,30,Product
+31,Male,Berlin,Software Engineer,8,1,Senior,68000,0,68000,68000,0,68000,30,Product
+31,Male,Berlin,Backend Developer,5,2,Senior,75000,0,75000,70000,0,70000,30,Product
+31,Male,Munich,Backend Developer,11,1,Senior,65000,0,65000,60000,0,60000,30,Product
+31,Male,Boeblingen,QA Engineer,6,3,Senior,82000,0,82000,78000,0,78000,30,Product
+31,Male,Munich,Frontend Developer,8,3,Senior,103000,0,103000,90000,0,90000,30,Product
+31,Male,Berlin,DevOps,11,4,Senior,61500,66500,128000,53000,58000,111000,30,Publishing and Technology
+31,Male,Berlin,Software Engineer,4,1,Senior,70000,0,70000,65000,0,65000,30,Startup
+31,Male,Berlin,Frontend Developer,8,3.5,Senior,73000,7000,80000,72000,0,72000,30,Startup
+31,Male,Hamburg,ML Engineer,3,3,Lead,68000,8000,76000,60000,8000,68000,26,Startup
+31,Male,Berlin,Software Engineer,6,4,Senior,58000,6000,64000,53000,14000,67000,30,Startup
+31,Male,Berlin,Software Engineer,9,5,Senior,65000,65000,130000,62000,62000,124000,30,Startup
+31,Male,Berlin,QA Engineer,10,5,Senior,65000,6000,71000,58000,0,58000,30,Startup
+31,Male,Berlin,Software Engineer,9,5,Lead,85000,0,85000,64000,0,64000,26,Startup
+31,Male,Berlin,Software Engineer,9,4,Senior,54000,0,54000,54000,0,54000,30,Startup
+31,Male,Berlin,Software Engineer,7,3,Lead,68500,30000,98500,62400,122000,184400,25,University
+32,Male,Munich,Software Engineer,13,7,Middle,63700,1600,65300,60000,600,60600,29,Cloud
+32,Male,Hamburg,Software Engineer,12,7,Senior,68000,0,68000,64000,1000,65000,30,Consulting 
+32,Male,Berlin,Backend Developer,8,5,Senior,85000,7000,92000,83200,6800,90000,30,Consulting 
+32,Male,Cologne,DevOps,7,2,Middle,70000,30000,100000,60000,15000,75000,28,Consulting 
+32,Male,Stuttgart,QA Engineer,9,9,Senior,78000,8000,86000,76000,7000,83000,30,Energy 
+32,Male,Berlin,Software Engineer,9,3,Lead,85600,10000,95600,75000,10000,85000,25,Handel 
+32,Male,Munich,Software Engineer,7,1,Senior,77000,20000,97000,77000,20000,97000,30,Media
+32,Male,Berlin,Data Scientist,10,10,Head,30000,0,30000,30000,0,30000,24,Product
+32,Male,Berlin,Software Engineer,9,5,Lead,50000,0,50000,50000,0,50000,25,Product
+32,Male,Vienna,DataOps Team Lead,10,10,Lead,72000,0,72000,66000,0,66000,25,Product
+32,Male,Berlin,Software Engineer,11,6,Lead,60000,0,60000,60000,0,60000,26,Product
+32,Male,Berlin,QA Engineer,7,3.5,Senior,70500,0,70500,58000,0,58000,30,Product
+32,Male,Munich,Software Engineer,10,6,Senior,82000,0,82000,79000,0,79000,30,Product
+32,Male,Munich,Software Engineer,7,3,Senior,68000,0,68000,68000,0,68000,40,Product
+32,Male,Berlin,QA Engineer,10,3,Senior,70000,3000,73000,68000,0,68000,30,Product
+32,Male,Munich,Fullstack Developer,9,2,Senior,65000,7000,72000,52000,300,52300,30,Product
+32,Male,Berlin,Data Engineer,7,5,Senior,60000,4700,64700,67000,5000,72000,30,Product
+32,Male,Copenhagen,Data Scientist,6,6,Senior,50000,5000,55000,45000,5000,50000,30,Product
+32,Male,Berlin,Senior Data Engineer,9,4,Senior,69000,6900,75900,63000,6300,69300,30,Product
+32,Male,Berlin,Software Engineer,12,1,Senior,105000,15000,120000,70000,7000,77000,30,Product
+32,Male,Berlin,DevOps,5,1,Senior,64800,9450,74250,58800,7050,65850,30,Product
+32,Male,Munich,Frontend Developer,7,5,Senior,90000,10000,100000,84000,10000,94000,30,Product
+32,Male,Munich,Product Manager,4,4,Senior,85000,15000,100000,80000,10000,90000,30,Product
+32,Male,Berlin,Backend Developer,5,3,Middle,105000,25000,130000,105000,25000,130000,28,Product
+32,Male,DÃ¼sseldorf,Software Engineer,11,7,Senior,120000,30000,150000,90000,30000,120000,30,Product
+32,Male,Hamburg,Product Manager,7,2,Senior,79000,56000,135000,77000,33000,110000,30,Product
+32,Male,Hamburg,Backend Developer,14,6,Lead,65000,70000,135000,60000,60000,120000,26,Product
+32,Male,Berlin,Backend Developer,9,5,Senior,78000,8000,86000,64000,70000,134000,36,Product
+32,Male,Hamburg,ML Engineer,4,1.5,Middle,83000,11000,94000,80000,80000,160000,27,Product
+32,Male,Berlin,Software Engineer,12,1.5,Senior,90000,0,90000,85000,85000,170000,30,Product
+32,Male,Berlin,Software Engineer,11,1,Senior,75000,9400,84400,66000,0,66000,30,Product
+32,Male,Munich,Software Engineer,10,3,Lead,66000,0,66000,66000,0,66000,25,Product
+32,Male,Berlin,Backend Developer,3,1,Middle,108000,0,108000,90000,0,90000,28,Product
+32,Male,Innsbruck,Data Scientist,3,0,Senior,78000,0,78000,70000,0,70000,30,Product
+32,Male,Munich,Software Engineer,10,5,Head,37500,0,37500,35000,0,35000,16,Startup
+32,Male,Berlin,Mobile Developer,8,2,Senior,54000,0,54000,54000,0,54000,30,Startup
+32,Male,Berlin,Engineering Manager,10,5,Middle,65000,10000,75000,58000,0,58000,27,Startup
+32,Male,Amsterdam,Backend Developer,15,0,Senior,76000,5000,81000,76000,5000,81000,30,Startup
+32,Male,Munich,ERP Consultant,10,6,Lead,57600,8000,65600,57600,55000,112600,26,Startup
+32,Male,Berlin,Software Engineer,13,5,Lead,70000,72000,142000,70000,72000,142000,26,Startup
+32,Male,Berlin,Software Engineer,10,5,Middle,60000,0,60000,55000,0,55000,27,Startup
+32,Male,Berlin,Backend Developer,10,5,Senior,65000,0,65000,65000,0,65000,30,Startup
+32,Male,Berlin,Frontend Developer,13,2,Senior,51000,0,51000,46000,0,46000,30,Startup
+33,Male,Berlin,Software Engineer,7,7,Senior,98000,25000,123000,98000,25000,123000,30,Bloody enterprise
+33,Male,Munich,Software Engineer,5,5,Senior,95000,35000,130000,79000,31000,110000,30,Consulting 
+33,Male,Berlin,Software Engineer,12,5,Lead,65000,31500,96500,65000,31500,96500,26,Consulting 
+33,Male,Berlin,Head of IT,3,3,Head,60000,0,60000,60000,0,60000,24,Consulting 
+33,Male,Munich,Backend Developer,15,3,Lead,65000,0,65000,52000,0,52000,26,Consulting 
+33,Male,Hamburg,Software Engineer,10,3,Senior,45000,0,45000,45000,0,45000,30,Consulting 
+33,Male,Munich,Software Engineer,10,4,Senior,88000,120000,208000,86000,115000,201000,30,Corporation
+33,Male,Dusseldorf,Data Scientist,2,2,Lead,75000,2000,77000,75000,2000,77000,25,Multinational 
+33,Male,Berlin,Data Scientist,5,4,Lead,64000,0,64000,55000,0,55000,25,Product
+33,Male,Munich,Software Engineer,11,4,Lead,75000,0,75000,75000,0,75000,25,Product
+33,Male,Frankfurt,Solution Architect,6,6,Middle,48000,0,48000,45000,0,45000,28,Product
+33,Male,Berlin,Backend Developer,13,1.5,Senior,60000,0,60000,60000,0,60000,30,Product
+33,Male,Berlin,Backend Developer,13,5,Senior,87550,0,87550,85000,0,85000,30,Product
+33,Male,Berlin,Software Engineer,10,5,Senior,60000,0,60000,60000,0,60000,30,Product
+33,Male,Munich,Frontend Developer,10,6,Senior,80000,0,80000,80000,0,80000,30,Product
+33,Male,Berlin,Software Engineer,10,6,Lead,70000,2000,72000,67000,2000,69000,26,Product
+33,Male,Berlin,Engineering Manager,15,4,Lead,92000,5000,97000,90000,5000,95000,25,Product
+33,Male,Heilbronn,Senior Scrum Master (RTE),7,7,Lead,57600,7000,64600,48000,7000,55000,27,Product
+33,Male,Munich,SRE,10,4,Senior,60000,62000,122000,47000,49000,96000,30,Product
+33,Male,Munich,Business Analyst,10,4,Senior,63000,63909,126909,50400,50400,100800,30,Product
+33,Male,Berlin,Data Engineer,13,3,Senior,60000,60000,120000,55000,60000,115000,30,Product
+33,Male,Berlin,Backend Developer,8,6,Lead,70000,6000,76000,60000,66000,126000,25,Product
+33,Male,Munich,Software Engineer,10,3,Senior,100000,75000,175000,97000,70000,167000,30,Product
+33,Male,Munich,DevOps,15,4,Lead,90000,1150000,1240000,75000,98000,173000,26,Product
+33,Male,Berlin,Software Engineer,5,1,Middle,110000,70000,180000,110000,180000,290000,28,Product
+33,Male,Berlin,Backend Developer,12,6,Lead,77500,7750,85250,67000,0,67000,25,Product
+33,Male,Berlin,Software Engineer,10,3,Lead,108500,0,108500,90000,0,90000,25,Product
+33,Male,Stuttgart,Team Lead,12,5,Lead,55000,0,55000,55000,0,55000,26,Product
+33,Male,Mannheim,Software Engineer,6,2,Middle,56000,0,56000,55000,0,55000,28,Product
+33,Male,Berlin,Frontend Developer,10,4,Senior,70000,0,70000,50000,0,50000,30,Product
+33,Male,Berlin,Mobile Developer,8,2,Senior,85000,0,85000,73000,0,73000,30,Product
+33,Male,Berlin,Product Manager,5,5,Senior,56400,0,56400,56400,0,56400,30,Product
+33,Male,Berlin,Technical Lead,10,2,Lead,115000,25000,140000,81000,5000,86000,25,Publisher
+33,Male,Munich,Software Engineer,9,9,Lead,73000,0,73000,70000,0,70000,26,Startup
+33,Male,Munich,Software Engineer,13,4,Senior,65000,0,65000,60000,0,60000,30,Startup
+33,Male,Berlin,Software Engineer,10,5,Senior,60000,0,60000,60000,0,60000,30,Startup
+33,Male,Munich,Backend Developer,10,10,Senior,57000,0,57000,57000,0,57000,30,Startup
+33,Male,Berlin,Data Analyst,2,2,Middle,85000,25000,110000,72000,0,72000,28,Startup
+33,Male,Berlin,Software Engineer,,10,Senior,53000,5000,58000,48000,2004,50004,30,Startup
+33,Male,Berlin,Backend Developer,5,2,Middle,80000,0,80000,82000,5000,87000,28,Startup
+33,Male,Berlin,Software Engineer,13,3,Senior,58000,0,58000,42000,50000,92000,30,Startup
+33,Male,Berlin,Backend Developer,12,2,Senior,67000,70500,137500,50000,55000,105000,30,Startup
+33,Male,Berlin,iOS Developer,10,2,Middle,65000,10000,75000,58000,65000,123000,28,Startup
+33,Male,Frankfurt,Software Engineer,8,5,Senior,60000,2000,62000,55000,0,55000,30,Startup
+33,Male,Nuremberg ,Data Scientist,2,2,Middle,85000,5000,90000,78000,0,78000,28,Startup
+33,Male,Berlin,Software Engineer,16,5,Senior,75000,0,75000,58000,0,58000,30,Startup
+33,Male,NÃ¼rnberg,Software Engineer,9,9,Senior,80000,0,80000,63000,0,63000,30,Startup
+34,Male,Munich,Solutions architect,14,6,Head,24000,0,24000,20000,0,20000,20,Consulting 
+34,Male,Berlin,QA Engineer,10,4,Senior,62000,8000,70000,50000,0,50000,30,Consulting 
+34,Male,Stuttgart ,Software Engineer,6,6,Head,22000,2000,24000,11000,500,11500,22,Consulting 
+34,Male,Berlin,Backend Developer,14,6,Lead,70000,4000,74000,68000,3000,71000,26,Consulting 
+34,Male,Berlin,Backend Developer,15,5,Senior,90000,0,90000,104000,10000,114000,30,Consulting 
+34,Male,Cologne,CTO,14,2,Lead,62000,62000,124000,40000,40000,80000,25,Consulting 
+34,Male,Munich,Backend Developer,13,2,Lead,53000,0,53000,53000,0,53000,26,Consulting 
+34,Male,Berlin,Data Scientist,5,5,Middle,75000,0,75000,75000,0,75000,28,Consulting 
+34,Male,Ingolstadt ,Software Engineer,3.5,3.5,Junior,45000,0,45000,45000,0,45000,25,Product
+34,Male,Berlin,Lead Software Developer,13,2,Lead,55000,0,55000,45000,0,45000,26,Product
+34,Male,Berlin,Software Engineer,14,4,Lead,49000,0,49000,48000,0,48000,26,Product
+34,Male,Berlin,QA Engineer,10,5,Lead,68000,0,68000,68000,0,68000,26,Product
+34,Male,Munich,Frontend Developer,4,3,Middle,80000,0,80000,65000,0,65000,28,Product
+34,Male,Berlin,ML Engineer,12,3,Senior,45000,0,45000,45000,0,45000,30,Product
+34,Male,Berlin,Backend Developer,12,4,Senior,53000,0,53000,53000,0,53000,30,Product
+34,Male,Munich,Frontend Developer,5,5,Senior,56000,0,56000,56000,0,56000,30,Product
+34,Male,Berlin,Security Engineer,10,4,Senior,52500,0,52500,52500,0,52500,30,Product
+34,Male,Munich,Software Engineer,12,8,Senior,108000,0,108000,102000,0,102000,30,Product
+34,Male,Hannover,Hardware Engineer,12,3,Senior,83000,3000,86000,80000,0,80000,30,Product
+34,Male,Berlin,Mobile Developer,11,5,Lead,90000,9000,99000,78000,0,78000,25,Product
+34,Male,Berlin,Mobile Developer,9,2,Senior,100000,20000,120000,73000,0,73000,30,Product
+34,Male,Munich,QA Engineer,5,2,Senior,75000,5000,80000,80000,500,80500,29,Product
+34,Male,Berlin,Mobile Developer,9,2,Senior,75000,1000,76000,75000,1000,76000,30,Product
+34,Male,Munich,Cloud Architect,10,4,Senior,100000,5000,105000,90000,5000,95000,30,Product
+34,Male,Berlin,Software Engineer,15,2,Lead,56000,8000,64000,52000,7000,59000,25,Product
+34,Male,Berlin,Frontend Developer,6,2,Middle,77000,12000,89000,65000,10000,75000,27,Product
+34,Male,Berlin,QA Engineer,10,3,Senior,95000,0,95000,85000,10000,95000,30,Product
+34,Male,Munich,Data Scientist,10,10,Senior,120000,40000,160000,70000,30000,100000,30,Product
+34,Male,Berlin,BI Developer / Data Engineer,10,5,Senior,130000,50000,180000,125000,50000,175000,30,Product
+34,Male,Berlin,Software Engineer,14,5,Senior,66000,70000,136000,61000,61000,122000,30,Product
+34,Male,Prague,Backend Developer,14,0,Lead,70000,75000,145000,70000,75000,145000,26,Product
+34,Male,Munich,Software Engineer,13,3,Lead,60000,5000,65000,58000,0,58000,26,Product
+34,Male,Berlin,Frontend Developer,10,3,Senior,74000,10000,84000,65000,0,65000,40,Product
+34,Male,Berlin,Software Architect,15,9,Lead,75000,0,75000,58000,0,58000,25,Product
+34,Male,Berlin,Software Engineer,16,5,Lead,80000,0,80000,60000,0,60000,25,Product
+34,Male,Berlin,DevOps,12,2,Lead,70000,0,70000,65000,0,65000,25,Product
+34,Male,Munich,,17,6,Lead,32000,0,32000,21800,0,21800,27,Product
+34,Male,Berlin,Software Engineer,12,2,Lead,44000,0,44000,43000,0,43000,27,Product
+34,Male,Berlin,DevOps,6,6,Middle,90000,0,90000,84000,0,84000,28,Product
+34,Male,Berlin,Backend Developer,10,4,Middle,84000,0,84000,79000,0,79000,28,Product
+34,Male,Berlin,Data Scientist,6,4.5,Senior,70000,0,70000,55000,0,55000,30,Product
+34,Male,Berlin,Backend Developer,14,4,Senior,58000,0,58000,55000,0,55000,30,Product
+34,Male,Berlin,ML Engineer,3,3,Senior,78600,0,78600,78600,0,78600,30,Product
+34,Male,Munich,DevOps,12,2,Middle,60000,0,60000,60000,0,60000,28,Startup
+34,Male,Zurich,Software Engineer,7,2,Senior,65000,0,65000,60000,0,60000,30,Startup
+34,Male,Munich,Frontend Developer,5,4,Senior,60000,0,60000,55000,0,55000,30,Startup
+34,Male,Leipzig,Mobile Developer,14,2,Senior,48000,101,48101,48000,101,48101,30,Startup
+34,Male,Berlin,Software Engineer,10,2,Senior,75000,7500,82500,68000,6800,74800,30,Startup
+34,Male,Vienna,Data Scientist,12,3,Senior,28800,28800,57600,28800,28800,57600,30,Startup
+34,Male,Munich,Software Engineer,12,5,Lead,76900,77400,154300,70000,74800,144800,26,Startup
+34,Male,Munich,Software Engineer,10,4,Senior,120000,80000,200000,120000,80000,200000,30,Startup
+34,Male,Berlin,Software Engineer,14,4,Lead,46000,0,46000,46000,0,46000,26,Startup
+34,Male,Munich,Product Manager,7,1.7,Middle,65000,0,65000,54000,0,54000,28,Startup
+34,Male,Berlin,Software Engineer,10,10,Senior,80000,0,80000,66000,0,66000,30,Startup
+35,Male,Berlin,Software Engineer,15,4,Senior,45000,7000,52000,37000,3000,40000,30,Construction
+35,Male,Berlin,ML Engineer,10,2,Lead,63000,0,63000,55000,0,55000,26,Consulting 
+35,Male,Konstanz,Data Scientist,10,10,Middle,70000,0,70000,70000,0,70000,27,Consulting 
+35,Male,Munich,Backend Developer,14,2.5,Senior,80000,5000,85000,75000,0,75000,30,Consulting 
+35,Male,Berlin,Software Engineer,13,5,Lead,67000,0,67000,65000,0,65000,26,Consulting 
+35,Male,Munich,DevOps,17,5,Lead,72000,0,72000,65000,0,65000,26,Consulting 
+35,Male,Munich,Software Engineer,14,1,Senior,64000,0,64000,60000,0,60000,30,Consulting 
+35,Male,Berlin,Software Engineer,15,4,Senior,54000,0,54000,54000,0,54000,30,Consulting 
+35,Male,DÃ¼sseldorf,Product Manager,5,2,Senior,70000,70000,140000,65000,65000,130000,30,E-commerce
+35,Male,Munich,Software Engineer,13,4,Senior,250000,450000,700000,230000,300000,530000,45,Industry
+35,Male,Frankfurt,Manager ,6,5,Head,70000,0,70000,70000,0,70000,21,Product
+35,Male,Berlin,Engineering Manager,20,6,Lead,47500,0,47500,47500,0,47500,25,Product
+35,Male,Munich,Software Engineer,16,8,Lead,77000,0,77000,74000,0,74000,26,Product
+35,Male,Berlin,Data Scientist,15,10,Middle,50400,0,50400,50400,0,50400,29,Product
+35,Male,Berlin,Backend Developer,13,5,Senior,67500,0,67500,61400,0,61400,30,Product
+35,Male,Luttich,Data Scientist,12,0,Lead,54000,1500,55500,47000,700,47700,27,Product
+35,Male,Frankfurt,Software Engineer,10,1,Senior,70000,2000,72000,57000,1500,58500,30,Product
+35,Male,Berlin,Software Engineer,12,6,Middle,43000,4300,47300,43000,4000,47000,28,Product
+35,Male,Berlin,Consultant,16,6,Senior,110000,30000,140000,85000,15000,100000,30,Product
+35,Male,Berlin,Software Engineer,8,5,Senior,130000,20000,150000,130000,20000,150000,30,Product
+35,Male,Berlin,Software Engineer,10,6,Senior,73000,400,73400,59000,60000,119000,30,Product
+35,Male,DÃ¼sseldorf,Data Scientist,3,3,Middle,77250,87250,164500,65000,72000,137000,27,Product
+35,Male,Berlin,Software Engineer,20,5,Senior,850000,95000,945000,75000,82000,157000,35,Product
+35,Male,Berlin,Software Engineer,15,10,Senior,90000,96000,186000,76000,82000,158000,30,Product
+35,Male,Berlin,Software Engineer,2,2,Middle,96000,100000,196000,85000,90000,175000,29,Product
+35,Male,Berlin,Team lead,,5,Lead,110000,110000,220000,90000,100000,190000,25,Product
+35,Male,Berlin,Data Analyst,9,9,Senior,65600,800,66400,67000,0,67000,30,Product
+35,Male,Ingolstadt,Backend Developer,10,4,Lead,44000,0,44000,42000,0,42000,25,Product
+35,Male,Berlin,Software Engineer,15,3,Lead,80000,0,80000,75000,0,75000,26,Product
+35,Male,Munich,Software Engineer,12,5,Lead,91000,0,91000,91000,0,91000,26,Product
+35,Male,Berlin,Data Analyst,5,5,Middle,80000,0,80000,75000,0,75000,27,Product
+35,Male,Berlin,Data Scientist,12,3.5,Senior,51000,0,51000,46000,0,46000,30,Product
+35,Male,Karlsruhe,Software Engineer,12,7,Senior,72000,0,72000,65000,0,65000,30,Product
+35,Male,Duesseldorf,DevOps,17,5,Senior,83000,0,83000,81000,0,81000,30,Product
+35,Male,Frankfurt,ML Engineer,12,10,Senior,55000,0,55000,50000,0,50000,30,Product
+35,Male,Berlin,Backend Developer,13,5,Senior,75000,0,75000,65000,0,65000,35,Product
+35,Male,Munich,Software Engineer,13,4,Lead,65000,0,65000,65000,0,65000,25,Startup
+35,Male,Helsinki,Backend Developer,11,2.5,Senior,75000,0,75000,75000,0,75000,30,Startup
+35,Male,Stuttgart,Security Manager,14,8,Senior,75000,0,75000,73500,0,73500,30,Startup
+35,Male,Frankfurt,Backend Developer,15,15,Senior,62500,0,62500,59500,0,59500,32,Startup
+35,Male,Darmstadt,Data Scientist,4,4,Senior,82000,2000,84000,80000,0,80000,30,Startup
+35,Male,Berlin,SRE,10,3,Senior,100000,10000,110000,98000,101,98101,30,Startup
+35,Male,Cologne,Software Engineer,14,7,Senior,73000,4000,77000,65000,3000,68000,37,Startup
+35,Male,Berlin,Frontend Developer,10,3,Senior,120000,50000,170000,104000,10000,114000,30,Startup
+35,Male,Berlin,Designer (UI/UX),10,4,Senior,50000,0,50000,35000,35000,70000,30,Startup
+35,Male,Fr,Backend Developer,4,2.5,Middle,65000,75000,140000,60000,60000,120000,28,Startup
+35,Male,Berlin,Designer (UI/UX),10,6,Senior,95000,105000,200000,95000,105000,200000,30,Startup
+35,Male,Berlin,Software Engineer,15,4,Principal,67000,1500,68500,66000,0,66000,29,Startup
+35,Male,Hamburg,Software Engineer,13,3,Lead,65000,3000,68000,42000,0,42000,25,Startup
+35,Male,Berlin,QA Engineer,12,3,Senior,90000,5000,95000,80000,0,80000,30,Startup
+35,Male,Frankfurt,Software Engineer,12,3,Senior,68000,0,68000,62000,0,62000,30,Startup
+35,Male,Berlin,Backend Developer,10,7,Senior,90000,2500,92500,88000,2500,90500,30,Utilities
+35,Male,Berlin,Support Engineer,10,4,Senior,44000,6000,50000,44000,6000,50000,30,Utilities
+36,Male,Berlin,Software Engineer,10,10,Senior,70000,2000,72000,70000,2000,72000,30,Consulting 
+36,Male,Amsterdam,Mobile Developer,14,8,Senior,60000,6000,66000,60000,6000,66000,30,Consulting 
+36,Male,Berlin,Software Engineer,5,1,Middle,80000,10000,90000,76000,0,76000,27,Insurance
+36,Male,Berlin,Software Engineer,7,5,Middle,77000,0,77000,70000,0,70000,27,Product
+36,Male,Berlin,Mobile Developer,10,10,Middle,70000,0,70000,70000,0,70000,29,Product
+36,Male,Zurich,Backend Developer,15,2,Senior,83000,0,83000,73000,0,73000,30,Product
+36,Male,Munich,Backend Developer,15,3,Senior,80000,0,80000,78000,0,78000,30,Product
+36,Male,Frankfurt,QA Engineer,9,2,Senior,82500,0,82500,65000,0,65000,30,Product
+36,Male,Stuttgart,Mobile Developer,16,4,Lead,66000,122.13,66122.13,66000,0,66000,27,Product
+36,Male,Berlin,Software Engineer,17,2,Lead,95000,15000,110000,90000,0,90000,25,Product
+36,Male,Berlin,Backend Developer,14,12,Middle,80000,0,80000,76000,4000,80000,29,Product
+36,Male,Stockholm,Mobile Developer,14,7,Senior,68000,4500,72500,61500,5000,66500,30,Product
+36,Male,Frankfurt,Software Engineer,16,5,Middle,70000,8500,78500,70000,8500,78500,28,Product
+36,Male,Berlin,Backend Developer,19,5,Senior,67000,5000,72000,60000,10000,70000,30,Product
+36,Male,Dortmund,Software Engineer,8,8,Senior,150000,50000,200000,120000,30000,150000,30,Product
+36,Male,Berlin,Backend Developer,16,8,Lead,50000,0,50000,50000,50000,100000,27,Product
+36,Male,Munich,Software Engineer,13,5,Head,56000,59000,115000,56000,59000,115000,21,Product
+36,Male,Munich,IT Spezialist,15,6,Senior,75000,80000,155000,73000,78000,151000,30,Product
+36,Male,Prefer not to say,ML Engineer,6,6,Senior,70500,1000,71500,68000,0,68000,30,Product
+36,Male,Berlin,Product Manager,10,2,Senior,78000,2000,80000,75000,0,75000,30,Product
+36,Male,Berlin,Backend Developer,18,1,Senior,52000,4000,56000,48000,0,48000,30,Product
+36,Male,Hamburg,Backend Developer,10,5,Senior,90000,10000,100000,75000,0,75000,30,Product
+36,Male,Berlin,Engineering Manager,18,10,Head,39000,0,39000,39000,0,39000,24,Product
+36,Male,Nuremberg,Software Engineer,20,20,Lead,47000,0,47000,46000,0,46000,26,Product
+36,Male,Berlin,Frontend Developer,6,4,Middle,52000,0,52000,52000,0,52000,28,Product
+36,Male,Hamburg,Data Scientist,2,10,Middle,81000,0,81000,72000,0,72000,29,Product
+36,Male,Regensburg,Software Engineer,10,10,Middle,82000,0,82000,73000,0,73000,29,Product
+36,Male,Berlin,Frontend Developer,14,5,Senior,77000,0,77000,62000,0,62000,30,Product
+36,Male,Munich,Software Engineer,15,1,Senior,63000,0,63000,57600,0,57600,30,Product
+36,Male,Berlin,Researcher,4,4,Middle,95000,0,95000,89000,0,89000,28,Startup
+36,Male,Berlin,Software Engineer,10,10,Principal,100000,0,100000,100000,0,100000,29,Startup
+36,Male,Munich,Solutions Architect,12,5,Lead,40000,1000,41000,33000,0,33000,25,Startup
+36,Male,Munich,DevOps,14,6,Middle,69000,0,69000,69000,2000,71000,28,Startup
+36,Male,Berlin,Staff Engineer,15,4,Lead,90000,0,90000,81000,9500,90500,25,Startup
+36,Male,Berlin,Software Engineer,15,6,Senior,75000,75000,150000,65000,65000,130000,30,Startup
+36,Male,Berlin,Backend Developer,5,2,Senior,57000,8000,65000,70000,0,70000,30,Startup
+36,Male,Berlin,Backend Developer,4,1,Middle,49000,0,49000,48000,0,48000,28,Startup
+36,Male,Berlin,Frontend Developer,12,4,Senior,64000,0,64000,60000,0,60000,30,Startup
+37,Male,Berlin,Product Manager,6,6,Middle,83000,0,83000,75000,0,75000,28,Automotive 
+37,Male,Berlin,Frontend Developer,14,5,Senior,88000,5000,93000,87000,3000,90000,30,Consulting 
+37,Male,Stuttgart ,Software Engineer,9,5,Senior,100000,0,100000,100000,0,100000,30,Consulting 
+37,Male,Berlin,Software Engineer,12,6,Middle,30000,0,30000,28800,0,28800,28,Product
+37,Male,Munich,Backend Developer,12,4,Senior,46000,2000,48000,43000,2000,45000,30,Product
+37,Male,Heidelberg,Software Engineer,15,7,Senior,75000,5000,80000,72000,4800,76800,30,Product
+37,Male,Berlin,Embedded Software Engineer,15,1,Senior,78000,3000,81000,65000,7000,72000,30,Product
+37,Male,Munich,Software Engineer,15,2,Senior,75000,10000,85000,73000,8000,81000,30,Product
+37,Male,Walldorf,ML Engineer,15,15,Lead,72500,10000,82500,70000,10000,80000,27,Product
+37,Male,Berlin,Mobile Developer,16,2,Senior,75000,7500,82500,65000,65000,130000,30,Product
+37,Male,Munich,Software Engineer,15,6,Senior,70000,0,70000,70000,70000,140000,30,Product
+37,Male,Berlin,QA Engineer,8,7,Middle,90000,90000,180000,80000,80000,160000,29,Product
+37,Male,Berlin,Software Engineer,11,5,Senior,60000,2000,62000,55000,0,55000,30,Product
+37,Male,Berlin,Mobile Developer,15,5,Senior,95000,5000,100000,90000,0,90000,30,Product
+37,Male,Munich,DevOps,13,2,Lead,66800,0,66800,65000,0,65000,25,Product
+37,Male,Berlin,QA Engineer,6,6,Middle,46000,0,46000,42000,0,42000,28,Product
+37,Male,Hamburg,Software Engineer,15,5,Senior,40000,0,40000,38000,0,38000,30,Product
+37,Male,Berlin,Software Engineer,10,3,Senior,65000,0,65000,55000,0,55000,30,Product
+37,Male,Berlin,Mobile Developer,17,1,Senior,70000,0,70000,65000,0,65000,30,Product
+37,Male,Munich,DevOps,17,1,Senior,62000,0,62000,60000,0,60000,30,Product
+37,Male,Berlin,Backend Developer,12,3,Senior,80000,0,80000,65000,0,65000,30,Product
+37,Male,Munich,Software Engineer,14,6,Head,21000,0,21000,19000,0,19000,22,Startup
+37,Male,Berlin,Test manager,6,6,Middle,60000,0,60000,60000,0,60000,28,Startup
+37,Male,Berlin,Software Engineer,15,3,Senior,90000,1000,91000,70000,0,70000,30,Startup
+37,Male,Berlin,Backend Developer,17,6,Senior,60000,6000,66000,54000,5400,59400,30,Startup
+37,Male,Berlin,Data Scientist,10,10,Senior,95000,15000,110000,95000,15000,110000,30,Startup
+37,Male,Berlin,Software Engineer,8,5,Senior,70200,75000,145200,63000,63000,126000,30,Startup
+37,Male,Berlin,Backend Developer,12,2.6,Lead,80000,90000,170000,70000,80000,150000,25,Startup
+37,Male,Berlin,Team Lead,12,10,Head,85000,0,85000,85000,85000,170000,24,Startup
+37,Male,Berlin,Cloud Engineer,15,3,Senior,60000,0,60000,60000,0,60000,38,Startup
+38,Male,Berlin,Security Engineer,5,3,Lead,66000,4000,70000,65000,5000,70000,26,Consulting 
+38,Male,Munich,Software Engineer,16,5,Senior,99000,1200,100200,99000,3300,102300,39,Fintech
+38,Male,Berlin,Head of Engineering,18,8,Head,64000,0,64000,40000,0,40000,20,Product
+38,Male,Berlin,Software Engineer,13,6,Lead,78000,0,78000,78000,0,78000,26,Product
+38,Male,Berlin,Backend Developer,5,1,Middle,64000,0,64000,50000,0,50000,28,Product
+38,Male,Berlin,Data Scientist,15,3,Senior,100000,0,100000,80000,0,80000,30,Product
+38,Male,Berlin,Full-Stack Developer,1,1,Junior,58000,1000,59000,55000,0,55000,24,Product
+38,Male,Berlin,Data Scientist,10,9,Senior,63000,7000,70000,63000,0,63000,30,Product
+38,Male,KÃ¶ln,QA Engineer,7,2,Middle,85000,15000,100000,80000,0,80000,28,Product
+38,Male,Berlin,Backend Developer,8,8,Senior,72000,0,72000,72000,0,72000,30,Product
+38,Male,Berlin,Head of Engineering,20,9,Head,25300,3000,28300,25300,300,25600,24,Product
+38,Male,Munich,Product Manager,12,12,Senior,60350,0,60350,58000,500,58500,31,Product
+38,Male,Berlin,DevOps,10,5,Senior,80000,5000,85000,53000,4000,57000,30,Product
+38,Male,Hamburg,Software Engineer,12,6,Senior,76000,12000,88000,73000,8000,81000,30,Product
+38,Male,Berlin,Software Engineer,16,2,Senior,75000,12500,87500,75000,12500,87500,30,Product
+38,Male,Berlin,Data Scientist,15,2,Head,75000,0,75000,75000,35000,110000,20,Product
+38,Male,Munich,Software Engineer,15,2,Senior,56000,56000,112000,54000,54000,108000,30,Product
+38,Male,Stuttgart ,Backend Developer,4,2,Middle,70000,70000,140000,65000,65000,130000,28,Product
+38,Male,Berlin,Head of IT ,15,5,Head,84000,92000,176000,72000,72000,144000,21,Product
+38,Male,Munich,ML Engineer,10,3,Lead,85000,5000,90000,75000,75000,150000,26,Product
+38,Male,Stuttgart,Software Engineer,15,8,Senior,75000,75000,150000,75000,75009,150009,30,Product
+38,Male,Berlin,Data Scientist,15,2,Head,100000,100000,200000,86000,86000,172000,20,Product
+38,Male,Berlin,Software Engineer,16,1,Senior,60000,0,60000,50000,0,50000,30,Product
+38,Male,Berlin,Software Engineer,12,6,Senior,75000,0,75000,60000,0,60000,23,Product
+38,Male,Dublin ,Mobile Developer,16,0,Senior,42000,0,42000,42000,800,42800,30,Science Institute 
+38,Male,Berlin,Data Scientist,6,3,Lead,75000,0,75000,70000,0,70000,25,Startup
+38,Male,Cologne,Software Engineer,11,5,Senior,60000,2000,62000,60000,1000,61000,30,Startup
+38,Male,Berlin,Mobile Developer,10,4,Senior,60000,5000,65000,60000,5000,65000,30,Startup
+38,Male,Munich,Data Analyst,16,4,Senior,67500,7500,75000,65000,5000,70000,30,Startup
+38,Male,Munich,Software Engineer,15,5,Senior,81000,7000,88000,81000,5500,86500,30,Startup
+38,Male,Berlin,Team Lead,18,4,Lead,115000,6000,121000,115000,6000,121000,25,Startup
+38,Male,Koblenz,Systemadministrator,20,2,Senior,98000,28000,126000,90000,22500,112500,30,Startup
+38,Male,Berlin,Software Engineer,15,3,Senior,82000,12000,94000,94000,92000,186000,30,Startup
+38,Male,Munich,Backend Developer,12,12,Senior,55000,3000,58000,45000,0,45000,31,Startup
+39,Male,Berlin,Software Engineer,10,2,Senior,70000,0,70000,70000,0,70000,30,Consulting 
+39,Male,Berlin,Data Scientist,7,4,Senior,51000,4000,55000,47000,3500,50500,30,Consulting 
+39,Male,Siegen,Software Engineer,16,6,Senior,80000,80000,160000,67000,67000,134000,30,IT Department of established business
+39,Male,Berlin,Manager,11,9,Head,27000,0,27000,27000,0,27000,21,Product
+39,Male,Berlin,Product Manager,10,5,Lead,63000,0,63000,58000,0,58000,25,Product
+39,Male,Munich,IT Operations Manager,15,2,Lead,66000,0,66000,60000,0,60000,25,Product
+39,Male,Hamburg,Data Scientist,10,10,Senior,105000,0,105000,105000,0,105000,30,Product
+39,Male,Berlin,Engineering Manager,15,10,Lead,65000,5000,70000,65000,0,65000,27,Product
+39,Male,Berlin,Software Engineer,19,7,Senior,90000,1000,91000,75000,1000,76000,30,Product
+39,Male,DÃ¼sseldorf ,Technical project manager,12,4,Senior,78500,0,78500,78500,2000,80500,30,Product
+39,Male,Munich,Software Engineer,8,7,Senior,74000,14000,88000,71000,11000,82000,30,Product
+39,Male,Berlin,Software Engineer,12,6,Lead,83000,20000,103000,75000,20000,95000,26,Product
+39,Male,Berlin,Software Engineer,15,4,Lead,50000,50000,100000,50000,50000,100000,25,Product
+39,Male,Munich,BI IT Consultant,5,5,Middle,180000,150000,330000,130000,120000,250000,28,Product
+39,Male,Berlin,Software Engineer,8,5,Senior,90000,0,90000,85000,0,85000,30,Product
+39,Male,Cologne,Teamlead,12,12,Head,50000,0,50000,50000,0,50000,24,Startup
+39,Male,Stuttgart,Software Engineer,11,3,Lead,75000,0,75000,70000,0,70000,26,Startup
+39,Male,Munich,Software Architect,20,12,Lead,45000,45000,90000,12000,12000,24000,26,Startup
+39,Male,Berlin,DevOps,15,3,Senior,105000,60000,165000,85000,60000,145000,30,Startup
+39,Male,Berlin,QA Engineer,7,5,Senior,64000,73000,137000,64000,64000,128000,30,Startup
+40,Male,Bodensee,Product Manager,17,9,Lead,69000,2000,71000,60000,0,60000,27,Consulting 
+40,Male,Berlin,Frontend Developer,7,1,Middle,100000,120000,220000,80000,0,80000,27,Consulting 
+40,Male,Berlin,QA Engineer,11,11,Senior,95000,7000,102000,74000,6000,80000,30,E-Commerce
+40,Male,Munich,Mobile Developer,25,2,Lead,59000,0,59000,55000,0,55000,26,Product
+40,Male,Karlsruhe,Team Manager,20,6,Lead,85000,0,85000,75000,0,75000,26,Product
+40,Male,Berlin,Engineering manager,15,6,Head,21120,3520,24640,16560,2760,19320,21,Product
+40,Male,Braunschweig ,SAP BW Senior Consultant ,11,11,Senior,60000,5000,65000,50000,5000,55000,30,Product
+40,Male,Berlin,Product Manager,13,9,Head,60000,60000,120000,52000,52000,104000,23,Product
+40,Male,Hildesheim,Software Engineer,16,3,Senior,62000,62000,124000,58000,60000,118000,30,Product
+40,Male,Mannheim,Software Engineer,9,9,Middle,65000,5000,70000,65000,0,65000,29,Product
+40,Male,Berlin,Product Manager,13,9,Head,55000,0,55000,42000,0,42000,22,Product
+40,Male,Munich,QA Engineer,18,14,Lead,65000,0,65000,65000,0,65000,27,Product
+40,Male,Berlin,Backend Developer,18,2.5,Senior,76000,0,76000,76000,0,76000,30,Product
+40,Male,Munich,Data Engineer,15,7,Lead,90000,20000,110000,90000,20000,110000,26,service
+40,Male,Cupertino,Software Engineer,20,0,Lead,60000,0,60000,50000,500,50500,27,Startup
+40,Male,Frankfurt,Software Engineer,22,3,Senior,87000,15000,102000,77000,12000,89000,30,Startup
+40,Male,Berlin,Product Manager,13,9,Head,72000,0,72000,60000,0,60000,23,Startup
+41,Male,Rome,CTO,22,0,Head,55000,0,55000,55000,0,55000,24,Game Company
+41,Male,Berlin,Product Manager,18,2,Senior,80000,5000,85000,75000,10000,85000,30,Market Research 
+41,Male,Munich,Product Manager,18,3,Middle,47400,1000,48400,44000,1000,45000,28,Media
+41,Male,Berlin,Software Engineer,18,7,Lead,68000,1500,69500,65000,0,65000,26,Product
+41,Male,Munich,Senior Program Manager,19,5,Senior,36000,2400,38400,28000,0,28000,36,Product
+41,Male,Munich,Software Engineer,15,15,Senior,80000,1500,81500,77000,1500,78500,40,Product
+41,Male,Berlin,Software Engineer,19,7,Lead,63000,0,63000,42000,46000,88000,27,Product
+41,Male,Berlin,DevOps,20,14,Senior,85000,95000,180000,80000,90000,170000,37.5,Product
+41,Male,Munich,Software Engineer,19,5,Senior,68000,0,68000,58000,0,58000,30,Product
+41,Male,Berlin,Backend Developer,20,5,Senior,95000,5000,100000,92000,92000,184000,30,Startup
+41,Male,Munich,Backend Developer,21,3,Senior,75000,0,75000,66000,0,66000,30,University
+42,Male,Den Haag,Backend Developer,20,6,Senior,50000,0,50000,45000,0,45000,30,Product
+42,Male,Berlin,Backend Developer,19,3,Senior,65000,0,65000,55000,0,55000,30,Product
+42,Male,Berlin,ML Engineer,20,20,Senior,65000,9000,74000,60000,9000,69000,33,Product
+42,Male,Berlin,Software Engineer,17,9,Senior,70000,75000,145000,67000,70000,137000,30,Product
+42,Male,Hamburg,Data Scientist,2,2,Senior,85000,0,85000,66000,0,66000,30,Product
+42,Male,Berlin,Frontend Developer,18,5,Senior,90000,0,90000,90000,0,90000,36,Product
+42,Male,Berlin,Software Engineer,20,2,Senior,77600,43500,121100,72000,18800,90800,30,Startup
+42,Male,Berlin,Software Engineer,20,5,Senior,63000,0,63000,56000,0,56000,30,Startup
+43,Male,Munich,Product Manager,18,9,Lead,70000,1000,71000,65000,1000,66000,25,Consulting 
+43,Male,Berlin,Mobile Developer,5,3,Senior,88000,35200,123200,96000,20000,116000,30,Consulting 
+43,Male,Berlin,Backend Developer,5,1.5,Middle,58000,0,58000,52000,0,52000,28,Consulting 
+43,Male,Berlin,Engineering Manager,20,20,Lead,83000,500,83500,75000,0,75000,27,Product
+43,Male,Berlin,Software Engineer,20,4,Senior,61200,7300,68500,53300,6200,59500,30,Product
+43,Male,Munich,Consultant ,21,3,Senior,81000,45000,126000,81000,22000,103000,30,Product
+43,Male,Berlin,DevOps,21,26,Lead,60000,10000,70000,60000,60000,120000,26,Product
+43,Male,Stuttgart,SAP Consultant,20,15,Senior,72000,77000,149000,70000,70000,140000,35,Product
+43,Male,Cologne,Backend Developer,10,7,Senior,80000,7000,87000,65000,5000,70000,30,Startup
+43,Male,Berlin,Software Engineer,20,3,Middle,65000,0,65000,58000,0,58000,27,Startup
+44,Male,Stuttgart,Software Engineer,22,3,Senior,110000,25000,135000,65000,2500,67500,30,Product
+44,Male,Frankfurt,Software Engineer,10,10,Senior,75000,20000,95000,73000,20000,93000,30,Product
+44,Male,Berlin,QA Lead,15,5,Lead,62000,700,62700,63000,0,63000,26,Product
+44,Male,Berlin,Backend Developer,12,3,Senior,55000,0,55000,55000,0,55000,30,Product
+44,Male,Munich,Software Engineer,28,6,Senior,78000,12000,90000,78000,12000,90000,30,Startup
+44,Male,Munich,Software Architekt,20,20,Head,54000,0,54000,54000,0,54000,24,Startup
+45,Male,Schleswig-Holstein,Software Engineer,26,18,Senior,120000,20000,140000,110000,10000,120000,32,Consulting 
+45,Male,Berlin,Mobile Developer,10,4,Lead,120000,200000,320000,120000,200000,320000,25,Consulting 
+45,Male,Berlin,Backend Developer,30,1,Senior,48000,0,48000,45600,0,45600,30,Product
+45,Male,Munich,Data architect,19,11,Senior,50000,0,50000,45000,0,45000,31,Product
+45,Male,Berlin,Software Engineer,25,20,Lead,77000,0,77000,72000,0,72000,27,Startup
+46,Male,Munich,Agile Coach,4,1.5,Senior,69000,5000,74000,63000,0,63000,30,Consulting 
+46,Male,Munich,Software Engineer,10,2,Senior,72000,5000,77000,70000,5000,75000,30,E-commerce
+46,Male,Munich,QA Engineer,13,13,Senior,79000,0,79000,75000,3000,78000,30,Product
+46,Male,Stuttgart,Software Engineer,13,6,Middle,53500,53500,107000,50000,50000,100000,29,Product
+46,Male,Berlin,Software Engineer,14,14,Senior,100000,20000,120000,65000,0,65000,32,Product
+46,Male,Munich,Scrum Master,12,8,Senior,80000,0,80000,63000,0,63000,30,Product
+46,Male,Berlin,Software Engineer,14,14,Senior,90000,0,90000,82000,0,82000,31,Product
+47,Male,Hamburg,Software Engineer,22,10,Senior,80000,15000,95000,75000,15000,90000,30,Startup
+48,Male,Berlin,Software Engineer,25,11,Senior,75000,5000,80000,75000,7000,82000,30,Startup
+49,Male,Munich,Software Engineer,27,19,Senior,82000,12000,94000,82000,10000,92000,32,Product
+49,Male,Berlin,Software Engineer,15,15,Senior,65000,77000,142000,46000,50000,96000,30,Product
+50,Male,Berlin,Software Engineer,29,2,Lead,80000,0,80000,75000,0,75000,26,Product
+51,Male,Berlin,Software Engineer,30,30,Senior,123600,0,123600,120000,0,120000,33,Product
+54,Male,Milano,Sales ,31,6,Head,49200,2000,51200,44500,1500,46000,21,Product
+54,Male,Munich,Software Engineer,25,15,Middle,66000,3000,69000,66000,76000,142000,28,Startup
+56,Male,Munich,Software Engineer,30,19,Lead,68500,6000,74500,68500,70000,138500,25,Product
+59,Male,Berlin,Backend Developer,30,30,Senior,85000,88000,173000,76000,78000,154000,30,Product
+65,Male,Berlin,Software Engineer,25,25,Senior,65000,6000,71000,55000,0,55000,33,Startup
+66,Male,Munich,Software Engineer,40,4,Lead,72000,0,72000,72000,0,72000,26,Startup
