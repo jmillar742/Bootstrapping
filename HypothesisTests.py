@@ -75,7 +75,7 @@ ageArray = s['Age'].to_numpy()
 salaryArray = s['Annual Total Salary'].to_numpy()
 
 # Use this line to change number of bootstrap samples (used for the table)
-Nboot = 50000
+Nboot = 1000
 
 # Calls functions to calculate values
 p_value,age_boot,salary_boot = bootstrap_p_value_for_f_test(ageArray, salaryArray,Nboot)
